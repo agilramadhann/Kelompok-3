@@ -13,7 +13,7 @@
 <b>Disusun oleh:</b>
 
 Muhammad Agil Ramadhan - 240504000<br>
-Maulana Yoga Syahputra - 240504000<br>
+Maulana Yoga Syahputra - 240504104<br>
 Grace Anastasya Siahaan - 250504000<br>
 Nazua - 250504000
 
