@@ -99,16 +99,96 @@ Kami percaya bahwa kreativitas, komunikasi, dan kerja sama merupakan fondasi pen
 
 ---
 
-## ACADEMIC INFORMATION
 
-| DESCRIPTION | INFORMATION |
-|:---|:---|
-| Team Name | Informatika Team |
-| Department | Informatika |
-| Course | Rekayasa Perangkat Lunak |
-| Lecturer | Cut Alna Fadhilla, S.Kom., M.Sc. |
-| Team Members | 4 Students |
-| Academic Year | 2026 |
+---
+
+## ACADEMIC PROFILE
+
+<div align="center">
+
+*An overview of our academic identity.*
+
+<br/>
+
+<table>
+<tr>
+<td width="35%">
+
+**TEAM**
+
+</td>
+<td>
+
+INFORMATIKA TEAM
+
+</td>
+</tr>
+<tr>
+<td>
+
+**DEPARTMENT**
+
+</td>
+<td>
+
+Informatika
+
+</td>
+</tr>
+<tr>
+<td>
+
+**COURSE**
+
+</td>
+<td>
+
+Rekayasa Perangkat Lunak
+
+</td>
+</tr>
+<tr>
+<td>
+
+**LECTURER**
+
+</td>
+<td>
+
+Cut Alna Fadhilla, S.Kom., M.Sc.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**ACADEMIC YEAR**
+
+</td>
+<td>
+
+2026
+
+</td>
+</tr>
+<tr>
+<td>
+
+**TEAM SIZE**
+
+</td>
+<td>
+
+04 Members
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 
 ---
 
