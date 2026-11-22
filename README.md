@@ -50,7 +50,6 @@
 </table>
 
 </div>
-## Tentang Kelompok
 
 INFORMATIKA TEAM merupakan kelompok mahasiswa Informatika yang dibentuk untuk memenuhi tugas mata kuliah Rekayasa Perangkat Lunak. Kelompok ini berfokus pada kerja sama, perancangan, dan pengembangan perangkat lunak.
 
