@@ -1,248 +1,337 @@
-# Smart Classroom Digital Twin System
-### Sistem Kembaran Digital Ruang Kelas Pintar
-
-## Deskripsi Proyek
-
-**Smart Classroom Digital Twin System** adalah proyek rekayasa perangkat lunak berbasis web yang dirancang untuk membuat representasi digital (Digital Twin) dari ruang kelas perkuliahan di universitas.
-
-Sistem ini memungkinkan administrator kampus, dosen, dan pengelola fasilitas untuk mengelola inventaris ruang kelas, mengatur kapasitas tempat duduk, menyusun jadwal perkuliahan, memantau kondisi ruang kelas secara simulasi, serta menganalisis pemanfaatan ruangan melalui dasbor visual yang interaktif.
-
-Berbeda dengan platform gedung pintar yang bergantung pada perangkat keras, sistem ini sepenuhnya beroperasi sebagai **Digital Twin berbasis perangkat lunak**. Kondisi lingkungan ruang kelas, tingkat keterisian, dan status kegiatan perkuliahan direpresentasikan secara digital melalui data yang dikelola dan disimulasikan oleh aplikasi.
-
----
-
-## 👥 Profil Kelompok
-
-### Anggota Kelompok Kami
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="docs/images/nazua.png" width="180" height="180" alt="Nazua"/>
-<h3>NAZUA</h3>
-<p>250504128</p>
-<p>ANGGOTA KELOMPOK 01</p>
-</td>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,35:5546A8,70:8875D6,100:C5B9F0&height=230&section=header&text=INFORMATIKA%20TEAM&fontSize=42&fontColor=FFFFFF&desc=REKAYASA%20PERANGKAT%20LUNAK&descSize=16&animation=fadeIn"/>
 
-<td align="center" width="50%">
-<img src="docs/images/grace.png" width="180" height="180" alt="Grace Anastasya Siahaan"/>
-<h3>GRACE ANASTASYA SIAHAAN</h3>
-<p>250504110</p>
-<p>ANGGOTA KELOMPOK 02</p>
-</td>
-</tr>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=17&duration=2500&pause=800&color=C5B9F0&center=true&vCenter=true&width=600&lines=WELCOME+TO+OUR+TEAM;FIVE+MINDS+ONE+MISSION;SMART+CLASSROOM+DIGITAL+TWIN" />
 
-<tr>
-<td align="center" width="50%">
-<img src="docs/images/maulana.png" width="180" height="180" alt="Maulana Yoga Syahputra"/>
-<h3>MAULANA YOGA SYAHPUTRA</h3>
-<p>240504104</p>
-<p>ANGGOTA KELOMPOK 03</p>
-</td>
+<br/>
 
-<td align="center" width="50%">
-<img src="docs/images/agil.png" width="180" height="180" alt="Muhammad Agil Ramadhan"/>
-<h3>MUHAMMAD AGIL RAMADHAN</h3>
-<p>240504112</p>
-<p>ANGGOTA KELOMPOK 04</p>
-</td>
-</tr>
-</table>
+![TEAM](https://img.shields.io/badge/TEAM-KELOMPOK%203-6655B8?style=for-the-badge)
+![MEMBERS](https://img.shields.io/badge/MEMBERS-05-8875D6?style=for-the-badge)
+![COURSE](https://img.shields.io/badge/COURSE-RPL-39345F?style=for-the-badge)
+![SPRINT](https://img.shields.io/badge/SPRINT-1-5546A8?style=for-the-badge)
+
+<br/>
+
+[Player Select](#-player-select) · [Course](#-course-information) · [Project Profile](#-project-profile) · [Project Charter](#-project-charter) · [Mission](#-our-mission)
 
 </div>
 
 ---
 
-## Latar Belakang
+<div align="center">
 
-Universitas sering menghadapi berbagai kendala dalam mengelola alokasi ruang kelas, mencegah bentrokan jadwal perkuliahan, memantau penggunaan ruangan, serta menilai kesesuaian kapasitas ruang dengan jumlah mahasiswa.
+# 🎮 PLAYER SELECT
 
-Sistem pengelolaan yang masih menggunakan spreadsheet atau penjadwalan statis memiliki keterbatasan dalam menampilkan informasi secara visual dan menyediakan analisis yang memadai. Hal ini menyulitkan pihak kampus untuk memperoleh informasi yang akurat dan terpusat mengenai ketersediaan serta kondisi operasional ruang kelas.
+### CHOOSE YOUR PLAYER
 
-Dengan menerapkan konsep **Digital Twin** pada tingkat perangkat lunak, ruang kelas fisik dapat dimodelkan secara digital melalui atribut yang terstruktur, kondisi fasilitas virtual, simulasi jumlah penghuni, serta pemetaan jadwal perkuliahan.
+*Different personalities, one destination.*
 
-Dengan demikian, sistem dapat memberikan pengalaman pengelolaan kampus pintar tanpa memerlukan infrastruktur perangkat IoT yang mahal.
+</div>
 
----
+<table>
+<tr>
+<td align="center" width="50%">
 
-## Rumusan Masalah
+### PLAYER 01
 
-1. **Data Ruang Kelas yang Terpisah:** Informasi mengenai kapasitas ruangan, fasilitas yang tersedia, dan jadwal perkuliahan sering disimpan secara terpisah sehingga menyebabkan ketidakefisienan dalam kegiatan akademik.
+<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Nazua&hairVariant=long01&hairProbability=100&beardProbability=0&backgroundColor=c5b9f0&hairColor=28150a,611c17" width="160" alt="Nazua"/>
 
-2. **Kurangnya Pemantauan Kondisi Secara Visual:** Pihak terkait belum dapat melihat kondisi operasional dan tingkat keterisian ruang kelas secara mudah melalui satu representasi digital yang terpusat.
+### 🎀 NAZUA
 
-3. **Bentrok Jadwal dan Kurangnya Pemanfaatan Ruangan:** Penentuan ruang kelas secara manual meningkatkan risiko jadwal perkuliahan yang bertabrakan serta ketidaksesuaian antara jumlah mahasiswa dan kapasitas ruangan.
+**NIM: 250504128**
 
-4. **Keterbatasan Informasi Analisis:** Pengelola fasilitas kampus belum memiliki informasi statistik dan visualisasi yang memadai mengenai jam perkuliahan tersibuk serta tingkat pemanfaatan ruang kelas untuk mendukung pengambilan keputusan.
+`FEMALE PLAYER`
 
----
+</td>
+<td align="center" width="50%">
 
-## Tujuan Proyek
+### PLAYER 02
 
-- Mengembangkan sistem Digital Twin berbasis perangkat lunak yang terpusat untuk merepresentasikan ruang kelas universitas secara digital.
-- Menyediakan pengelolaan profil ruang kelas, kapasitas, fasilitas virtual, dan jadwal perkuliahan dengan validasi bentrok jadwal.
-- Memungkinkan pemantauan kondisi ruang kelas dan jumlah penghuninya secara simulasi melalui perangkat lunak.
-- Menyediakan analisis pemanfaatan ruangan dan dasbor visual interaktif untuk membantu pengambilan keputusan akademik dan pengelolaan fasilitas.
-- Menerapkan metode pengembangan Agile Scrum secara terstruktur, dimulai dengan analisis dan perancangan sistem secara menyeluruh pada Sprint 1.
+<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Grace&hairVariant=long05&hairProbability=100&beardProbability=0&backgroundColor=d8d0f5&hairColor=28150a,603a14" width="160" alt="Grace"/>
 
----
+### 🌸 GRACE ANASTASYA SIAHAAN
 
-## Ruang Lingkup Proyek
+**NIM: 250504110**
 
-### Fitur yang Termasuk dalam Proyek (In Scope)
+`FEMALE PLAYER`
 
-- Aplikasi berbasis web untuk pengelolaan ruang kelas, jadwal perkuliahan, simulasi keterisian, dan manajemen Digital Twin.
-- Sistem Hak Akses Berbasis Peran (RBAC) untuk tiga pengguna utama:
-  - Administrator.
-  - Dosen.
-  - Pengelola Fasilitas Kampus.
-- Simulasi keterisian ruang kelas dan kondisi fasilitas virtual, seperti:
-  - Status ruangan kosong atau terisi.
-  - Jumlah peserta yang disimulasikan.
-  - Status lampu virtual.
-  - Status AC virtual.
-  - Status proyektor virtual.
-- Tampilan Digital Twin ruang kelas berbasis visual 2D atau kartu interaktif.
-- Analisis dan visualisasi pemanfaatan ruang kelas.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-### Batasan Proyek (Out of Scope)
+### PLAYER 03
 
-- **Tidak Menggunakan Perangkat Keras atau Integrasi IoT:** Sistem tidak terhubung dengan sensor IoT fisik, kamera CCTV atau pengawasan, mikrokontroler, maupun perangkat keras tertanam.
-- Seluruh parameter yang menyerupai sensor dan metrik keterisian ruangan dihasilkan serta dikelola melalui simulasi perangkat lunak dan pembaruan data oleh pengguna aplikasi.
+<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Maulana&hairVariant=short05&hairProbability=100&beardProbability=0&backgroundColor=b8c5ec&hairColor=28150a,603a14" width="160" alt="Maulana"/>
 
----
+### ⚡ MAULANA YOGA SYAHPUTRA
 
-## Metodologi Pengembangan (Scrum)
+**NIM: 240504104**
 
-Proyek ini menggunakan metodologi **Agile dengan kerangka kerja Scrum**.
+`MALE PLAYER`
 
-Pengembangan sistem dibagi menjadi beberapa tahapan Sprint yang memiliki tujuan, daftar pekerjaan (Product Backlog), evaluasi, dan hasil akhir yang telah ditentukan.
+</td>
+<td align="center" width="50%">
 
-Metode ini diterapkan untuk memastikan proses pengembangan berjalan secara bertahap, terstruktur, dan tetap sesuai dengan kebutuhan pengguna serta kualitas arsitektur sistem.
+### PLAYER 04
 
----
+<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Agil&hairVariant=short12&hairProbability=100&beardProbability=0&backgroundColor=c9c9ed&hairColor=28150a,611c17" width="160" alt="Muhammad Agil"/>
 
-## Rencana Pengembangan Sprint
+### 🎮 MUHAMMAD AGIL RAMADHAN
 
-| Sprint | Fokus Pengembangan | Hasil yang Diharapkan | Status |
-| :--- | :--- | :--- | :--- |
-| **Sprint 1** | **Analisis dan Perancangan Sistem** | User Stories, Activity Diagram, Flowchart, Spesifikasi API, Function Point Analysis, Wireframe UI/UX, dan Arsitektur Deployment | **Selesai (Fokus Saat Ini)** |
-| **Sprint 2** | **Backend Inti dan Autentikasi** | Migrasi skema database, autentikasi JWT, RBAC, API pengelolaan ruang kelas dan jadwal perkuliahan | Direncanakan |
-| **Sprint 3** | **Digital Twin dan Mesin Simulasi** | Tampilan Digital Twin interaktif, API dan UI simulasi keterisian, integrasi frontend untuk modul ruang kelas dan jadwal | Direncanakan |
-| **Sprint 4** | **Analitik, Pengujian, dan Deployment** | Dasbor analisis pemanfaatan ruangan dan jam tersibuk, pengujian End-to-End, Dockerisasi, CI/CD, dan deployment produksi | Direncanakan |
+**NIM: 240504000**
 
----
+`MALE PLAYER`
 
-## Dokumentasi Sprint 1
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-Seluruh dokumen analisis dan perancangan sistem pada Sprint 1 disimpan di dalam direktori `docs/`.
+### PLAYER 05
 
-| Dokumen | Deskripsi | Lokasi |
-| :--- | :--- | :--- |
-| **User Stories** | Kebutuhan fungsional sistem berdasarkan fitur dan aktor beserta kriteria penerimaan | [`docs/USER-STORY.md`](docs/USER-STORY.md) |
-| **Activity Diagram** | Diagram aktivitas Swimlane yang menggambarkan interaksi Administrator, Dosen, dan Sistem | [`docs/ACTIVITY-DIAGRAM.md`](docs/ACTIVITY-DIAGRAM.md) |
-| **System Flowchart** | Alur navigasi utama pengguna dan proses pengelolaan ruang kelas secara terperinci | [`docs/FLOWCHART.md`](docs/FLOWCHART.md) |
-| **API Specification** | Rancangan endpoint RESTful API, payload, kode status, dan struktur respons | [`docs/API-SPEC.md`](docs/API-SPEC.md) |
-| **Function Point Analysis** | Estimasi ukuran perangkat lunak menggunakan metrik IFPUG Function Point (UFP, VAF, Final FP) | [`docs/FUNCTION-POINT.md`](docs/FUNCTION-POINT.md) |
-| **UI/UX Wireframes** | Desain antarmuka Smart Campus, tata letak, komponen, dan alur navigasi | [`docs/UI-UX-WIREFRAME.md`](docs/UI-UX-WIREFRAME.md) |
-| **Deployment Design** | Kebutuhan sistem, teknologi yang digunakan, arsitektur container, dan alur deployment | [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md) |
+<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Ichsan&hairVariant=short09&hairProbability=100&beardProbability=0&backgroundColor=bfc8f0&hairColor=28150a,603a14" width="160" alt="Al Ichsan Irawadi"/>
+
+### 🚀 AL ICHSAN IRAWADI
+
+**NIM: 240504120**
+
+`MALE PLAYER`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Teknologi yang Digunakan
+<div align="center">
 
-### Frontend
-- React.js.
-- Next.js.
-- TypeScript.
-- Tailwind CSS.
-- Recharts.
-- Lucide Icons.
+# 📚 COURSE INFORMATION
 
-### Backend
-- Node.js.
-- Express.js.
-- TypeScript.
-- RESTful API.
-- JWT Authentication.
+<img src="https://github.com/user-attachments/assets/a9eba4dc-258c-4357-85ab-d58ca5950ece" alt="Logo Universitas Samudra" width="110" height="110">
 
-### Database dan ORM
-- PostgreSQL.
-- Prisma ORM.
+### REKAYASA PERANGKAT LUNAK
 
-### Infrastruktur dan DevOps
-- Docker.
-- Docker Compose.
-- Nginx Reverse Proxy.
-- GitHub Actions.
+**DOSEN PENGAMPU**
+
+### Cut Alna Fadhilla, S.Kom., M.Sc.
+
+Program Studi Informatika · Fakultas Sains dan Teknologi · Universitas Samudra 2026
+
+</div>
 
 ---
 
-## Gambaran Arsitektur Sistem
+<div align="center">
 
-Aplikasi dirancang menggunakan arsitektur web client-server yang terpisah (decoupled), serta menggunakan container agar proses deployment dapat berjalan secara konsisten di berbagai lingkungan.
+# 🧩 PROJECT PROFILE
 
-```mermaid
-flowchart LR
-    User["Pengguna Kampus\n(Admin, Dosen, Pengelola Fasilitas)"] -->|HTTPS| Nginx["Nginx Reverse Proxy"]
+### SMART CLASSROOM DIGITAL TWIN SYSTEM
 
-    Nginx -->|Static / SSR| FE["Frontend Web App\n(React / Next.js + Tailwind)"]
+*Versi digital dari ruang kuliah, tanpa perangkat keras tambahan.*
 
-    Nginx -->|/api/v1/*| BE["Backend REST API\n(Node.js + Express + TS)"]
+</div>
 
-    BE --> Auth["Middleware JWT & RBAC"]
+| ITEM | DETAIL |
+|---|---|
+| 🏷️ Nama Project | Smart Classroom Digital Twin System |
+| 🖥️ Jenis | Aplikasi web (Digital Twin berbasis perangkat lunak) |
+| 🏫 Domain | Manajemen fasilitas dan ruang kuliah kampus pintar |
+| 🔁 Metodologi | Agile, kerangka kerja Scrum |
+| 📍 Fase Saat Ini | Sprint 1: Analisis dan Desain Sistem |
+| 🔌 Perangkat Keras | Tidak ada, seluruh data sensor disimulasikan oleh perangkat lunak |
 
-    BE --> Sim["Layanan Digital Twin & Simulasi"]
+### 📖 Ringkasan
 
-    BE -->|Prisma ORM| DB[("Database PostgreSQL")]
-```
+Aplikasi web yang merepresentasikan ruang kuliah universitas secara digital. Pengguna dapat mengelola data ruang kelas, menyusun jadwal kuliah tanpa bentrok, memantau kondisi ruang yang disimulasikan, dan menganalisis pemakaian ruang melalui dashboard visual.
 
----
+### 👥 Pengguna Sasaran
 
-## Struktur Repository
+| AKTOR | KEBUTUHAN UTAMA |
+|---|---|
+| 🛡️ Administrator | Mengelola ruang kelas, jadwal, pengguna, dan konfigurasi sistem |
+| 👨‍🏫 Dosen | Melihat ruang dan jadwal tersedia, kapasitas, serta status fasilitas virtual |
+| 🏢 Pengelola Fasilitas Kampus | Memantau okupansi, kondisi ruang, dan analitik pemakaian |
 
-```text
-smart-classroom-digital-twin/
-│
-├── docs/
-│   │
-│   ├── images/
-│   │   ├── nazua.png
-│   │   ├── grace.png
-│   │   ├── maulana.png
-│   │   └── agil.png
-│   │
-│   ├── ACTIVITY-DIAGRAM.md
-│   ├── API-SPEC.md
-│   ├── DEPLOYMENT.md
-│   ├── FLOWCHART.md
-│   ├── FUNCTION-POINT.md
-│   ├── UI-UX-WIREFRAME.md
-│   └── USER-STORY.md
-│
-├── README.md
-│
-└── (src/ akan dibuat pada Sprint 2)
-```
+### ⭐ Fitur Utama
 
----
+| FITUR | DESKRIPSI |
+|---|---|
+| 🏫 Classroom Management | Profil ruang, kapasitas, dan fasilitas virtual (lampu, AC, proyektor) |
+| 📅 Schedule Management | Penjadwalan kuliah dengan validasi bentrok otomatis |
+| 🗺️ Digital Twin Overview | Tampilan interaktif 2D/kartu untuk status ruang kelas |
+| 👥 Occupancy Simulation | Simulasi jumlah peserta dan status kosong/terisi |
+| 📊 Utilization Analytics | Dashboard jam sibuk dan tingkat pemakaian ruang |
+| 🔐 Role-Based Access | Hak akses berbeda untuk setiap aktor |
 
-## Status Pengembangan
+### 🛠️ Teknologi yang Direncanakan
 
-**Tahapan Saat Ini:** `Sprint 1 – Analisis dan Perancangan Sistem`
-
-Dokumentasi Sprint 1 telah diselesaikan sebagai dasar arsitektur dan analisis untuk proyek **Smart Classroom Digital Twin System**.
-
-Implementasi kode sumber aplikasi, termasuk Backend API, migrasi database, serta antarmuka Frontend, direncanakan akan dimulai pada **Sprint 2**.
+| LAYER | TEKNOLOGI |
+|---|---|
+| Frontend | React / Next.js (TypeScript), Tailwind CSS, Recharts |
+| Backend | Node.js, Express.js (TypeScript), REST API, JWT |
+| Database | PostgreSQL, Prisma ORM |
+| DevOps | Docker, Docker Compose, Nginx, GitHub Actions |
 
 ---
 
-## Penutup
+<div align="center">
 
-Smart Classroom Digital Twin System diharapkan dapat menjadi solusi digital untuk membantu perguruan tinggi dalam mengelola ruang kelas secara lebih terstruktur, efisien, dan interaktif.
+# 📜 PROJECT CHARTER
 
-Dengan memanfaatkan konsep Digital Twin berbasis perangkat lunak, sistem ini dapat memberikan gambaran kondisi ruang kelas secara digital, membantu mengurangi bentrok jadwal, serta menyediakan informasi analisis pemanfaatan ruangan untuk mendukung pengelolaan fasilitas kampus yang lebih baik.
+*Dokumen kesepakatan awal project.*
+
+</div>
+
+### 1️⃣ Gambaran Umum
+
+| ITEM | DETAIL |
+|---|---|
+| Judul Project | Smart Classroom Digital Twin System |
+| Sponsor | Cut Alna Fadhilla, S.Kom., M.Sc. (Dosen Rekayasa Perangkat Lunak) |
+| Tim | Kelompok 3 (5 anggota) |
+| Project Manager | Ditentukan oleh tim |
+| Pendekatan | Agile Scrum, 4 sprint |
+
+### 2️⃣ Justifikasi
+
+Data ruang kelas, kapasitas, dan jadwal di banyak kampus tersimpan terpisah, misalnya di spreadsheet. Akibatnya jadwal bisa bentrok, kapasitas ruang tidak sesuai jumlah mahasiswa, dan pemakaian ruang sulit dipantau. Digital Twin berbasis perangkat lunak memberi gambaran terpadu, visual, dan dapat dianalisis tanpa biaya infrastruktur IoT.
+
+### 3️⃣ Tujuan Project
+
+| NO | TUJUAN | UKURAN KEBERHASILAN |
+|:-:|---|---|
+| 1 | Memusatkan data ruang kelas | Profil ruang, kapasitas, dan fasilitas dapat dikelola dalam satu sistem |
+| 2 | Mencegah jadwal bentrok | Jadwal yang tumpang tindih pada ruang yang sama ditolak oleh validasi |
+| 3 | Menyediakan pemantauan simulasi | Okupansi dan status fasilitas tampil di Digital Twin Overview |
+| 4 | Mendukung keputusan lewat analitik | Dashboard pemakaian dan jam sibuk tersedia |
+| 5 | Menerapkan praktik rekayasa perangkat lunak | Dokumen analisis dan desain Sprint 1 selesai |
+
+### 4️⃣ Ruang Lingkup
+
+| ✅ DALAM LINGKUP | ❌ DI LUAR LINGKUP |
+|---|---|
+| Aplikasi web untuk ruang kelas, jadwal, dan Digital Twin | Integrasi sensor IoT fisik |
+| Akses berbasis peran: Admin, Dosen, Pengelola Fasilitas | CCTV, kamera, mikrokontroler, perangkat tertanam |
+| Simulasi okupansi dan status fasilitas virtual | Pengukuran kondisi ruang secara fisik |
+| Overview interaktif dan analitik pemakaian | Aplikasi mobile native |
+
+### 5️⃣ Deliverable per Sprint
+
+| SPRINT | FOKUS | HASIL | STATUS |
+|---|---|---|---|
+| **Sprint 1** | Analisis & Desain | User Story, Activity Diagram, Flowchart, API Spec, Function Point, Wireframe, Deployment | 🔄 Berjalan |
+| **Sprint 2** | Backend & Autentikasi | Skema database, JWT, RBAC, REST API ruang & jadwal | 🔒 Direncanakan |
+| **Sprint 3** | Digital Twin & Simulasi | Overview interaktif, API & UI simulasi, integrasi frontend | 🔒 Direncanakan |
+| **Sprint 4** | Analitik & Deployment | Dashboard analitik, pengujian end-to-end, Docker, CI/CD | 🔒 Direncanakan |
+
+### 6️⃣ Stakeholder
+
+| STAKEHOLDER | KEPENTINGAN |
+|---|---|
+| Dosen pengampu | Menilai proses, dokumentasi, dan hasil akhir |
+| Tim pengembang (Kelompok 3) | Merancang, membangun, menguji, dan mendokumentasikan sistem |
+| Administrator | Mengoperasikan dan mengonfigurasi sistem |
+| Dosen (pengguna) | Memakai informasi jadwal dan ruang |
+| Pengelola Fasilitas Kampus | Memakai pemantauan dan analitik untuk perencanaan |
+
+### 7️⃣ Sumber Daya
+
+| SUMBER DAYA | DETAIL |
+|---|---|
+| Sumber daya manusia | 5 anggota tim |
+| Alat | GitHub, Docker, GitHub Actions |
+| Anggaran | Tidak ada anggaran dana, memakai perangkat gratis dan open source |
+
+### 8️⃣ Risiko dan Mitigasi
+
+| RISIKO | DAMPAK | MITIGASI |
+|---|---|---|
+| Lingkup membesar melebihi waktu | Fitur tidak selesai | Prioritaskan fitur inti per sprint, hardware tetap di luar lingkup |
+| Kontribusi anggota tidak merata | Keterlambatan dan kualitas turun | Bagi tugas tiap sprint, wajibkan commit semua anggota |
+| Belum menguasai teknologi | Pengembangan lambat | Belajar bersama, kerja berpasangan pada bagian sulit |
+| Integrasi frontend dan backend bermasalah | Pengerjaan ulang | Sepakati spesifikasi API sejak Sprint 1 |
+| Data simulasi terasa tidak realistis | Nilai Digital Twin lemah | Buat pola okupansi berdasarkan jadwal dan kapasitas |
+
+### 9️⃣ Asumsi dan Batasan
+
+**Asumsi**
+- Semua anggota memiliki akses GitHub dan alat pengembangan.
+- Data ruang dan jadwal adalah data contoh atau simulasi.
+- Dosen pengampu tersedia untuk reviu di akhir tiap sprint.
+
+**Batasan**
+- Sistem tidak boleh bergantung pada perangkat keras atau IoT.
+- Pengerjaan mengikuti jadwal sprint mata kuliah.
+- Hanya memakai perangkat gratis dan open source.
+
+### 🔟 Kriteria Keberhasilan
+
+- Dokumen Sprint 1 lengkap dan konsisten satu sama lain.
+- Setiap anggota memiliki commit yang dapat diverifikasi di repository.
+- Sistem akhir mendukung pengelolaan ruang, jadwal tanpa bentrok, simulasi okupansi, dan analitik pemakaian.
+- Sistem dapat dijalankan lewat alur deployment berbasis container yang terdokumentasi.
 
 ---
+
+<div align="center">
+
+# ⚡ TEAM POWER-UPS
+
+</div>
+
+| POWER-UP | DESCRIPTION |
+|---|---|
+| 💡 Creativity | Mengembangkan ide kreatif |
+| 🤝 Teamwork | Kerja sama kelompok |
+| 🚀 Innovation | Menciptakan inovasi |
+| 🧠 Problem Solving | Menyelesaikan masalah |
+| 📖 Knowledge | Belajar bersama |
+
+---
+
+<div align="center">
+
+# 💻 LANGUAGES & TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark" />
+
+<br/><br/>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 OUR MISSION
+
+### DESIGN • DEVELOP • INNOVATE
+
+Belajar bersama, bekerja sama, dan mengembangkan
+kemampuan dalam bidang Rekayasa Perangkat Lunak.
+
+<br/>
+
+| MISSION | STATUS |
+|---|---|
+| Team Formation | ✅ COMPLETED |
+| Project Planning | 🔄 IN PROGRESS |
+| System Analysis | 🔄 IN PROGRESS |
+| Development | 🔒 UPCOMING |
+
+<br/>
+
+### "FIVE MINDS, ONE MISSION."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,35:5546A8,70:8875D6,100:C5B9F0&height=150&section=footer&text=LEVEL%20UP%20TOGETHER&fontSize=26&fontColor=FFFFFF&animation=fadeIn"/>
+
+**INFORMATIKA TEAM © 2026**
+
+</div>
