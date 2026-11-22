@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171B36,50:38345F,100:8875D6&height=190&section=header&text=INFORMATIKA%20TEAM&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%202026&descSize=14&descColor=D8D0F5&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,30:5546A8,65:8875D6,100:D8C9F5&height=230&section=header&text=INFORMATIKA%20TEAM&fontSize=44&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEERING%20%7C%202026&descSize=15&descColor=F5F0FF&animation=fadeIn"/>
 
 <br/>
 
@@ -11,15 +11,21 @@
 
 <br/>
 
-![TEAM](https://img.shields.io/badge/TEAM-INFORMATIKA%20TEAM-38345F?style=flat-square)
-![MEMBERS](https://img.shields.io/badge/MEMBERS-04-8875D6?style=flat-square)
-![COURSE](https://img.shields.io/badge/COURSE-RPL-6655B8?style=flat-square)
+![TEAM](https://img.shields.io/badge/TEAM-INFORMATIKA%20TEAM-5546A8?style=for-the-badge)
+![MEMBERS](https://img.shields.io/badge/MEMBERS-04-8875D6?style=for-the-badge)
+![COURSE](https://img.shields.io/badge/COURSE-RPL-39345F?style=for-the-badge)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## ABOUT OUR TEAM
+
+*Who we are and what we believe in.*
+
+</div>
 
 INFORMATIKA TEAM merupakan kelompok mahasiswa Informatika yang terdiri dari empat anggota dengan karakter, kemampuan, dan ide yang beragam. Kami memiliki semangat untuk terus belajar, berkolaborasi, serta mengembangkan ide menjadi solusi digital melalui penerapan prinsip Rekayasa Perangkat Lunak.
 
@@ -33,9 +39,9 @@ Kami percaya bahwa kreativitas, komunikasi, dan kerja sama merupakan fondasi pen
 
 ---
 
-## TEAM MEMBERS
-
 <div align="center">
+
+## TEAM MEMBERS
 
 *Meet the people behind the ideas.*
 
@@ -99,12 +105,9 @@ Kami percaya bahwa kreativitas, komunikasi, dan kerja sama merupakan fondasi pen
 
 ---
 
-
----
+<div align="center">
 
 ## ACADEMIC PROFILE
-
-<div align="center">
 
 *An overview of our academic identity.*
 
@@ -189,12 +192,13 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 
 ---
 
-
----
+<div align="center">
 
 ## OUR VALUES
 
-<div align="center">
+*The principles that define us.*
+
+<br/>
 
 <table>
 <tr>
@@ -207,7 +211,6 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 <sub>Developing ideas through creative thinking.</sub>
 
 </td>
-
 <td align="center" width="33%">
 
 ### 02
@@ -217,7 +220,6 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 <sub>Growing through collaboration.</sub>
 
 </td>
-
 <td align="center" width="33%">
 
 ### 03
@@ -234,9 +236,13 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 
 ---
 
+<div align="center">
+
 ## TECHNOLOGY & TOOLS
 
-<div align="center">
+*The tools behind our development process.*
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=light"/>
 
@@ -252,25 +258,68 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 
 ---
 
+<div align="center">
+
 ## OUR VISION
+
+*Creating a better future through technology.*
+
+</div>
 
 Menjadi kelompok yang kompeten, inovatif, dan kolaboratif dalam bidang teknologi informasi serta mampu menghasilkan solusi digital yang bermanfaat.
 
+---
+
+<div align="center">
+
 ## OUR MISSION
 
-- Mengembangkan pengetahuan dan keterampilan di bidang Informatika.
-- Meningkatkan kemampuan bekerja sama dalam sebuah tim.
-- Menerapkan konsep Rekayasa Perangkat Lunak dalam pengembangan proyek.
-- Menghasilkan solusi teknologi yang kreatif dan bermanfaat.
-- Membangun komunikasi dan tanggung jawab antaranggota kelompok.
+*The direction that guides our journey.*
+
+</div>
+
+<table>
+<tr>
+<td>
+
+**01 — KNOWLEDGE**
+
+Mengembangkan pengetahuan dan keterampilan di bidang Informatika.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**02 — COLLABORATION**
+
+Membangun kerja sama dan komunikasi yang baik antaranggota.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**03 — DEVELOPMENT**
+
+Menerapkan prinsip Rekayasa Perangkat Lunak dalam pengembangan proyek.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**04 — INNOVATION**
+
+Menghasilkan solusi teknologi yang kreatif dan bermanfaat.
+
+</td>
+</tr>
+</table>
 
 ---
 
-
----
-
-
----
+<div align="center">
 
 ## OUR GOALS
 
@@ -278,15 +327,9 @@ To grow as a team, strengthen our knowledge, and create meaningful solutions thr
 
 We aim to transform ideas into practical outcomes while continuously learning and developing our skills in Software Engineering.
 
-<div align="center">
+<br/>
 
 *Learn Together. Build Better.*
-
-</div>
-
-<div align="center">
-
-*Growing Together, Creating with Purpose.*
 
 </div>
 
@@ -294,14 +337,16 @@ We aim to transform ideas into practical outcomes while continuously learning an
 
 <div align="center">
 
-## FOUR MINDS. ONE VISION.
+### FOUR MINDS. ONE VISION.
 
 *Building ideas into meaningful digital solutions.*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171B36,50:38345F,100:8875D6&height=110&section=footer&text=INFORMATIKA%20TEAM&fontSize=26&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,30:5546A8,65:8875D6,100:D8C9F5&height=160&section=footer&text=INFORMATIKA%20TEAM&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
 
-<sub>© 2026 INFORMATIKA TEAM · REKAYASA PERANGKAT LUNAK</sub>
+**© 2026 INFORMATIKA TEAM**
+
+<sub>REKAYASA PERANGKAT LUNAK</sub>
 
 </div>
