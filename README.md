@@ -186,15 +186,22 @@ Menjadi kelompok yang kompeten, inovatif, dan kolaboratif dalam bidang teknologi
 
 ---
 
+
+---
+
 ## OUR GOALS
 
-| GOALS | STATUS |
-|:---|:---:|
-| Team Formation | COMPLETED |
-| Project Planning | IN PROGRESS |
-| System Analysis | IN PROGRESS |
-| Project Development | UPCOMING |
-| Final Presentation | UPCOMING |
+INFORMATIKA TEAM memiliki tujuan untuk membangun kerja sama yang solid serta mengembangkan kemampuan setiap anggota dalam bidang teknologi informasi. Melalui proses pembelajaran dan kolaborasi, kami berkomitmen untuk merencanakan, menganalisis, dan mengembangkan proyek secara terstruktur dengan menerapkan prinsip Rekayasa Perangkat Lunak.
+
+Kami juga berupaya menciptakan lingkungan kerja yang produktif, terbuka terhadap ide-ide baru, serta mampu menghadapi berbagai tantangan dalam proses pengembangan perangkat lunak. Setiap tahapan proyek menjadi kesempatan bagi kami untuk meningkatkan pengetahuan, keterampilan, dan pengalaman.
+
+Dengan semangat kolaborasi dan tanggung jawab, kami berharap dapat menghasilkan sebuah karya yang tidak hanya memenuhi tujuan proyek, tetapi juga memberikan pengalaman dan manfaat bagi seluruh anggota kelompok.
+
+<div align="center">
+
+*Growing Together, Creating with Purpose.*
+
+</div>
 
 ---
 
