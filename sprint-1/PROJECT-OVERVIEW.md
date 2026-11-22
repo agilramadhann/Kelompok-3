@@ -1,133 +1,132 @@
 
-# PROJECT OVERVIEW
+# GAMBARAN UMUM PROYEK
 ## Smart Classroom Digital Twin System
 
-### 1. Project Background
+### 1. Latar Belakang Proyek
 
-Classroom management is an important aspect of creating an effective and comfortable learning environment. However, conventional classroom management still faces several challenges, such as limited environmental monitoring, inefficient electricity usage, and the lack of centralized classroom management.
+Pengelolaan ruang kelas merupakan salah satu aspek penting dalam menciptakan lingkungan pembelajaran yang efektif dan nyaman. Namun, pengelolaan ruang kelas secara konvensional masih menghadapi beberapa permasalahan, seperti keterbatasan pemantauan kondisi lingkungan kelas, penggunaan energi listrik yang kurang efisien, serta belum tersedianya sistem pengelolaan ruang kelas yang terintegrasi.
 
-To address these challenges, the **Smart Classroom Digital Twin System** is proposed as an IoT-based platform that integrates physical classroom conditions with a virtual 3D representation.
+Untuk mengatasi permasalahan tersebut, dikembangkan **Smart Classroom Digital Twin System**, yaitu sebuah sistem pengelolaan ruang kelas pintar berbasis Internet of Things (IoT) yang mengintegrasikan kondisi ruang kelas fisik dengan representasi virtual dalam bentuk 3D.
 
-The system utilizes IoT sensors to collect environmental data and synchronizes the information with a virtual classroom model. Through this integration, users can monitor classroom conditions, analyze energy consumption, simulate environmental changes, and control connected classroom devices through a centralized dashboard.
+Sistem ini memanfaatkan sensor IoT untuk mengumpulkan data kondisi lingkungan kelas dan menyinkronkan informasi tersebut dengan model ruang kelas virtual. Melalui integrasi ini, pengguna dapat memantau kondisi ruang kelas, menganalisis penggunaan energi, melakukan simulasi perubahan kondisi lingkungan, serta mengendalikan perangkat kelas melalui satu dashboard terpusat.
 
-### 2. Problem Statement
+### 2. Identifikasi Masalah
 
-The main problems identified in conventional classroom management are:
+Beberapa permasalahan yang ditemukan dalam pengelolaan ruang kelas secara konvensional adalah:
 
-1. Limited ability to monitor classroom environmental conditions in real time.
-2. Inefficient electricity consumption due to lights and fans remaining active when classrooms are unoccupied.
-3. Lack of centralized monitoring for classroom facilities.
-4. Difficulty identifying changes in classroom environmental conditions.
-5. Absence of an interactive virtual representation of the physical classroom.
+1. Terbatasnya kemampuan untuk memantau kondisi lingkungan ruang kelas secara real-time.
+2. Penggunaan energi listrik yang kurang efisien karena lampu dan kipas tetap menyala ketika ruang kelas tidak digunakan.
+3. Belum tersedianya sistem pemantauan fasilitas kelas secara terpusat.
+4. Kesulitan dalam mengetahui perubahan kondisi lingkungan ruang kelas.
+5. Belum adanya representasi virtual interaktif yang menggambarkan kondisi ruang kelas fisik.
 
-### 3. Project Objectives
+### 3. Tujuan Proyek
 
-The objectives of developing this system are:
+Tujuan pengembangan sistem ini adalah:
 
-1. To develop a virtual 3D representation of a physical classroom.
-2. To monitor classroom environmental conditions in real time.
-3. To detect classroom occupancy using IoT sensors.
-4. To monitor electrical energy consumption.
-5. To provide remote control of connected classroom devices.
-6. To simulate classroom environmental conditions through a virtual environment.
-7. To support more efficient classroom management through data analysis.
+1. Mengembangkan representasi virtual ruang kelas dalam bentuk 3D.
+2. Memantau kondisi lingkungan ruang kelas secara real-time.
+3. Mendeteksi keberadaan orang di dalam ruang kelas menggunakan sensor IoT.
+4. Memantau penggunaan energi listrik.
+5. Menyediakan fitur pengendalian perangkat kelas dari jarak jauh.
+6. Melakukan simulasi perubahan kondisi lingkungan ruang kelas melalui lingkungan virtual.
+7. Mendukung pengelolaan ruang kelas yang lebih efisien melalui analisis data.
 
-### 4. Project Scope
+### 4. Ruang Lingkup Proyek
 
-The system will cover the following functionalities:
+Sistem ini mencakup beberapa fungsi utama sebagai berikut:
 
-**A. Environmental Monitoring**
-- Temperature monitoring.
-- Humidity monitoring.
-- Light intensity monitoring.
-- Classroom occupancy detection.
+**A. Pemantauan Kondisi Lingkungan**
+- Pemantauan suhu ruangan.
+- Pemantauan kelembapan udara.
+- Pemantauan intensitas cahaya.
+- Deteksi keberadaan orang di dalam kelas.
 
-**B. Digital Twin Visualization**
-- 3D virtual classroom representation.
-- Real-time synchronization with IoT sensor data.
-- Visualization of classroom device conditions.
-- Virtual representation of classroom environmental changes.
+**B. Visualisasi Digital Twin**
+- Representasi ruang kelas virtual dalam bentuk 3D.
+- Sinkronisasi data sensor IoT dengan model virtual secara real-time.
+- Visualisasi kondisi perangkat kelas.
+- Representasi perubahan kondisi lingkungan ruang kelas.
 
-**C. Smart Device Management**
-- Remote lighting control.
-- Fan control.
-- Monitoring connected device status.
+**C. Pengelolaan Perangkat Pintar**
+- Pengendalian lampu dari jarak jauh.
+- Pengendalian kipas angin.
+- Pemantauan status perangkat yang terhubung.
 
-**D. Energy Monitoring**
-- Monitoring electrical energy consumption.
-- Displaying energy usage statistics.
-- Providing historical energy consumption data.
+**D. Pemantauan Energi**
+- Pemantauan penggunaan energi listrik.
+- Penyajian statistik konsumsi energi.
+- Penyimpanan data historis penggunaan energi.
 
-**E. Simulation System**
-- Simulating changes in classroom temperature.
-- Simulating occupancy conditions.
-- Simulating device status changes.
+**E. Sistem Simulasi**
+- Simulasi perubahan suhu ruang kelas.
+- Simulasi kondisi keberadaan orang di dalam kelas.
+- Simulasi perubahan status perangkat kelas.
 
-### 5. Target Users
+### 5. Pengguna Sistem
 
-The system is designed for the following users:
+Sistem ini dirancang untuk digunakan oleh beberapa jenis pengguna berikut:
 
-| User | Responsibilities |
+| Pengguna | Tanggung Jawab |
 |---|---|
-| Administrator | Manages the system, users, and classroom devices. |
-| Teacher | Monitors classroom conditions and controls available devices. |
-| School Management | Reviews classroom conditions and energy consumption reports. |
+| Administrator | Mengelola sistem, pengguna, dan perangkat ruang kelas. |
+| Guru | Memantau kondisi ruang kelas dan mengendalikan perangkat yang tersedia. |
+| Manajemen Sekolah | Melihat kondisi ruang kelas dan laporan penggunaan energi. |
 
-### 6. Technology Overview
+### 6. Gambaran Teknologi yang Digunakan
 
-The proposed technologies include:
+Teknologi yang direncanakan dalam pengembangan sistem ini meliputi:
 
-| Component | Technology |
+| Komponen | Teknologi |
 |---|---|
 | Frontend | React.js |
-| 3D Visualization | Three.js |
-| Backend | Node.js and Express.js |
+| Visualisasi 3D | Three.js |
+| Backend | Node.js dan Express.js |
 | Database | MySQL / PostgreSQL |
-| Microcontroller | ESP32 |
-| Communication Protocol | MQTT |
-| Temperature & Humidity | DHT22 Sensor |
-| Occupancy Detection | PIR Sensor |
-| Light Intensity | LDR Sensor |
-| Energy Monitoring | PZEM-004T |
+| Mikrokontroler | ESP32 |
+| Protokol Komunikasi | MQTT |
+| Sensor Suhu dan Kelembapan | DHT22 |
+| Sensor Deteksi Gerakan | PIR Sensor |
+| Sensor Intensitas Cahaya | LDR Sensor |
+| Pemantauan Energi | PZEM-004T |
 
-### 7. System Architecture Overview
+### 7. Gambaran Arsitektur Sistem
 
-The system consists of the following main components:
+Sistem ini terdiri dari beberapa komponen utama:
 
-1. **Physical Classroom:** The real classroom equipped with sensors and connected devices.
-2. **IoT Layer:** Collects environmental data through ESP32.
-3. **Communication Layer:** Transfers sensor data using MQTT.
-4. **Backend Layer:** Processes sensor data and device control requests.
-5. **Database Layer:** Stores sensor readings, device information, and historical records.
-6. **Digital Twin Layer:** Represents the physical classroom in a virtual 3D environment.
-7. **User Interface:** Provides a centralized dashboard for monitoring and controlling the system.
+1. **Ruang Kelas Fisik:** Ruang kelas sebenarnya yang dilengkapi dengan sensor dan perangkat elektronik yang terhubung.
+2. **Lapisan IoT:** Mengumpulkan data kondisi lingkungan melalui ESP32.
+3. **Lapisan Komunikasi:** Mengirimkan data sensor menggunakan protokol MQTT.
+4. **Lapisan Backend:** Memproses data sensor dan permintaan pengendalian perangkat.
+5. **Lapisan Database:** Menyimpan data sensor, informasi perangkat, dan riwayat pemantauan.
+6. **Lapisan Digital Twin:** Merepresentasikan kondisi ruang kelas fisik ke dalam lingkungan virtual 3D.
+7. **Antarmuka Pengguna:** Menyediakan dashboard terpusat untuk memantau dan mengendalikan sistem.
 
-### 8. Expected Outcomes
+### 8. Hasil yang Diharapkan
 
-The expected outcomes of this project include:
+Hasil yang diharapkan dari pengembangan proyek ini meliputi:
 
-- An interactive web-based classroom management dashboard.
-- A virtual 3D classroom synchronized with physical classroom conditions.
-- Real-time environmental monitoring.
-- Smart classroom device control.
-- Energy consumption monitoring and reporting.
-- A simulation environment for classroom condition analysis.
+- Dashboard pengelolaan ruang kelas berbasis web.
+- Model ruang kelas virtual 3D yang tersinkronisasi dengan kondisi ruang kelas fisik.
+- Fitur pemantauan kondisi lingkungan secara real-time.
+- Pengendalian perangkat kelas secara jarak jauh.
+- Pemantauan dan pelaporan konsumsi energi listrik.
+- Lingkungan simulasi untuk menganalisis perubahan kondisi ruang kelas.
 
-### 9. Project Limitations
+### 9. Batasan Proyek
 
-The initial development focuses on a limited classroom environment.
+Pengembangan awal sistem difokuskan pada lingkungan ruang kelas dengan cakupan terbatas.
 
-The following limitations are identified:
+Adapun batasan dalam pengembangan sistem ini adalah:
 
-1. The initial implementation focuses on one physical classroom.
-2. Monitoring capabilities depend on the availability and accuracy of IoT sensors.
-3. Device control is limited to supported connected hardware.
-4. The 3D virtual model represents selected classroom objects and conditions.
-5. Predictive analysis and advanced AI features are considered future development.
+1. Implementasi awal difokuskan pada satu ruang kelas fisik.
+2. Kemampuan pemantauan bergantung pada ketersediaan dan tingkat akurasi sensor IoT.
+3. Pengendalian perangkat hanya berlaku untuk perangkat keras yang telah terhubung dan didukung sistem.
+4. Model virtual 3D hanya merepresentasikan objek dan kondisi ruang kelas yang telah ditentukan.
+5. Fitur analisis prediktif dan kecerdasan buatan tingkat lanjut direncanakan sebagai pengembangan berikutnya.
 
-### 10. Project Conclusion
+### 10. Kesimpulan Proyek
 
-The Smart Classroom Digital Twin System aims to transform conventional classroom management into an intelligent and integrated environment.
+Smart Classroom Digital Twin System dikembangkan dengan tujuan mengubah pengelolaan ruang kelas konvensional menjadi lingkungan yang lebih cerdas dan terintegrasi.
 
-By combining Internet of Things (IoT), Digital Twin technology, and web-based applications, the system provides a foundation for real-time monitoring, virtual simulation, and more efficient classroom management.
-
+Dengan menggabungkan teknologi Internet of Things (IoT), Digital Twin, dan aplikasi berbasis web, sistem ini diharapkan mampu menyediakan pemantauan kondisi ruang kelas secara real-time, simulasi lingkungan virtual, serta mendukung pengelolaan ruang kelas yang lebih efektif dan efisien.
