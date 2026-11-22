@@ -43,9 +43,10 @@
 
 ### 🎀 NAZUA
 
+`GITHUB: @nazua4868`
+
 **NIM: 250504128**
 
-`GITHUB: @nazua4868`
 
 `FEMALE PLAYER`
 
