@@ -1,0 +1,164 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,50:0f4c5c,100:5bc0be&height=250&section=header&text=SMART%20CLASSROOM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8F%AB%20DIGITAL%20TWIN%20SYSTEM%20%F0%9F%8F%AB&descSize=24&descColor=0b132b&descAlignY=62&animation=twinkling" width="100%" alt="Smart Classroom Digital Twin System">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=3200&pause=1000&color=5BC0BE&center=true&vCenter=true&width=700&height=45&lines=Versi+digital+dari+ruang+kuliah;Tanpa+perangkat+keras+tambahan;Pantau+%C2%B7+Simulasi+%C2%B7+Optimalkan" alt="Tagline">
+
+![Status](https://img.shields.io/badge/STATUS-DALAM%20PENGEMBANGAN-5bc0be?style=for-the-badge&labelColor=0b132b)
+![Mata Kuliah](https://img.shields.io/badge/MATA%20KULIAH-REKAYASA%20PERANGKAT%20LUNAK-a78bfa?style=for-the-badge&labelColor=0b132b)
+![Hardware](https://img.shields.io/badge/HARDWARE%20TAMBAHAN-NOL-34d399?style=for-the-badge&labelColor=0b132b)
+
+</div>
+
+---
+
+## 🌐 Tentang Proyek
+
+> **SMART CLASSROOM DIGITAL TWIN SYSTEM** adalah sistem yang membuat *kembaran digital* dari ruang kuliah. Kelas nyata direpresentasikan secara virtual, sehingga kondisi, penggunaan, dan jadwalnya bisa dipantau dan disimulasikan **tanpa memasang perangkat keras tambahan**.
+
+---
+
+## 🔄 Konsep Kembaran Digital
+
+<div align="center">
+<table>
+<tr>
+<th align="center">🏫 Ruang Kuliah Nyata</th>
+<th align="center">➜</th>
+<th align="center">🪞 Kembaran Digital</th>
+</tr>
+<tr>
+<td align="center">Jadwal & penggunaan ruang</td>
+<td align="center">⇄</td>
+<td align="center">Model ruang kuliah virtual</td>
+</tr>
+<tr>
+<td align="center">Dosen, mahasiswa, dan mata kuliah</td>
+<td align="center">⇄</td>
+<td align="center">Data terstruktur & terhubung</td>
+</tr>
+<tr>
+<td align="center">Kebutuhan pengelolaan kelas</td>
+<td align="center">⇄</td>
+<td align="center">Dasbor, simulasi, dan insight</td>
+</tr>
+</table>
+</div>
+
+---
+
+## ✨ Kenapa Berbeda?
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">🔌<br><b>TANPA HARDWARE</b><br><sub>Cukup perangkat lunak, tidak perlu sensor atau alat tambahan</sub></td>
+<td align="center" width="33%">🧠<br><b>BERBASIS DATA</b><br><sub>Keputusan pengelolaan kelas didukung data yang jelas</sub></td>
+<td align="center" width="33%">🚀<br><b>MUDAH DIKEMBANGKAN</b><br><sub>Dibangun bertahap dengan siklus rekayasa perangkat lunak</sub></td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🧩 Fitur Utama
+
+| | Fitur | Deskripsi |
+|:-:|:------|:----------|
+| 🏛️ | **Model Ruang Virtual** | Representasi digital ruang kuliah beserta atributnya |
+| 📅 | **Manajemen Jadwal** | Pengaturan penggunaan ruang dan mata kuliah |
+| 📊 | **Dasbor Pemantauan** | Ringkasan kondisi dan pemakaian kelas dalam satu tampilan |
+| 🧪 | **Simulasi Skenario** | Mencoba perubahan jadwal atau tata kelas sebelum diterapkan |
+| 💡 | **Insight Pengelolaan** | Saran berdasarkan data penggunaan ruang |
+
+> *Daftar fitur ini adalah rancangan awal dan bisa disesuaikan dengan perkembangan proyek.*
+
+---
+
+## 🛰️ Alur Sistem
+
+<div align="center">
+<table>
+<tr>
+<td align="center">📥<br><b>1</b><br><sub>Input Data</sub></td>
+<td align="center">🧱<br><b>2</b><br><sub>Bangun Model</sub></td>
+<td align="center">🖥️<br><b>3</b><br><sub>Visualisasi</sub></td>
+<td align="center">🧪<br><b>4</b><br><sub>Simulasi</sub></td>
+<td align="center">💡<br><b>5</b><br><sub>Insight</sub></td>
+</tr>
+</table>
+
+**Input Data ➜ Bangun Model ➜ Visualisasi ➜ Simulasi ➜ Insight**
+
+</div>
+
+---
+
+## 🧰 Teknologi
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-0b132b?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0b132b)
+![CSS](https://img.shields.io/badge/CSS3-0b132b?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0b132b)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b132b?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0b132b)
+![Python](https://img.shields.io/badge/Python-0b132b?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0b132b)
+![Git](https://img.shields.io/badge/Git-0b132b?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0b132b)
+![GitHub](https://img.shields.io/badge/GitHub-0b132b?style=for-the-badge&logo=github&logoColor=white&labelColor=0b132b)
+
+</div>
+
+---
+
+## 🗺️ Peta Jalan (SDLC)
+
+- [ ] 📋 **Planning**: menentukan tujuan dan ruang lingkup
+- [ ] 🔍 **Analisis**: kebutuhan sistem dan pengguna
+- [ ] 🎨 **Desain**: rancangan sistem dan antarmuka
+- [ ] 💻 **Implementasi**: pembuatan sistem
+- [ ] 🧪 **Testing**: pengujian dan perbaikan
+- [ ] 🛰️ **Rilis**: peluncuran versi 1.0
+
+> *Centang setiap tahap saat sudah selesai.*
+
+---
+
+## 👥 Tim Pengembang
+
+<div align="center">
+
+| Anggota | NIM |
+|:--------|:---:|
+| Nazua | `250504128` |
+| Grace Anastasya Siahaan | `250504110` |
+| Maulana Yoga Syahputra | `240504104` |
+| Muhammad Agil Ramadhan | `240504000` |
+| Al Ichsan Irawadi | `240504120` |
+
+🎓 **Dosen Pengampu:** Cut Alna Fadhilla, S.Kom., M.Sc.
+<br>📚 **Mata Kuliah:** Rekayasa Perangkat Lunak
+
+</div>
+
+---
+
+## ⚙️ Cara Menjalankan
+
+```bash
+# 1. Salin repository
+git clone https://github.com/USERNAME/NAMA-REPOSITORY.git
+
+# 2. Masuk ke folder proyek
+cd NAMA-REPOSITORY
+```
+
+> *Ganti `USERNAME` dan `NAMA-REPOSITORY` dengan milik kalian, lalu tambahkan langkah menjalankan sistem di bawah ini.*
+
+---
+
+<div align="center">
+
+### 🌠 Learn · Create · Collaborate 💜
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5bc0be,50:0f4c5c,100:0b132b&height=110&section=footer&text=Informatika%20Team&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Informatika Team">
+
+</div>
