@@ -12,7 +12,44 @@
 </div>
 
 ---
+## Anggota Kelompok
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./images/team/nazua.jpg" width="130" height="130" />
+      <br />
+      <strong>Nazua</strong>
+      <br />
+      <sub>250504128</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./images/team/grace.jpg" width="130" height="130" />
+      <br />
+      <strong>Grace Anastasya Siahaan</strong>
+      <br />
+      <sub>250504110</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./images/team/maulana.jpg" width="130" height="130" />
+      <br />
+      <strong>Maulana Yoga Syahputra</strong>
+      <br />
+      <sub>240504104</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./images/team/agil.jpg" width="130" height="130" />
+      <br />
+      <strong>Muhammad Agil Ramadhan</strong>
+      <br />
+      <sub>240504112</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 ## Tentang Kelompok
 
 INFORMATIKA TEAM merupakan kelompok mahasiswa Informatika yang dibentuk untuk memenuhi tugas mata kuliah Rekayasa Perangkat Lunak. Kelompok ini berfokus pada kerja sama, perancangan, dan pengembangan perangkat lunak.
@@ -77,44 +114,7 @@ Dengan menerapkan teknologi **Digital Twin**, kondisi ruang kelas fisik dapat di
 
 ---
 
-## Anggota Kelompok
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="./images/team/nazua.jpg" width="130" height="130" />
-      <br />
-      <strong>Nazua</strong>
-      <br />
-      <sub>250504128</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./images/team/grace.jpg" width="130" height="130" />
-      <br />
-      <strong>Grace Anastasya Siahaan</strong>
-      <br />
-      <sub>250504110</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./images/team/maulana.jpg" width="130" height="130" />
-      <br />
-      <strong>Maulana Yoga Syahputra</strong>
-      <br />
-      <sub>240504104</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./images/team/agil.jpg" width="130" height="130" />
-      <br />
-      <strong>Muhammad Agil Ramadhan</strong>
-      <br />
-      <sub>240504112</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## Informasi Akademik
 
