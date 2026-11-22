@@ -9,6 +9,50 @@ Unlike hardware-dependent smart building platforms, this system operates purely 
 
 ---
 
+## 👥 Team Profile
+
+### Our Team Members
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="docs/images/nazua.png" width="180" height="180" alt="Nazua"/>
+<h3>NAZUA</h3>
+<p>250504128</p>
+<p>TEAM MEMBER 01</p>
+</td>
+
+<td align="center" width="50%">
+<img src="docs/images/grace.png" width="180" height="180" alt="Grace Anastasya Siahaan"/>
+<h3>GRACE ANASTASYA SIAHAAN</h3>
+<p>250504110</p>
+<p>TEAM MEMBER 02</p>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<img src="docs/images/maulana.png" width="180" height="180" alt="Maulana Yoga Syahputra"/>
+<h3>MAULANA YOGA SYAHPUTRA</h3>
+<p>240504104</p>
+<p>TEAM MEMBER 03</p>
+</td>
+
+<td align="center" width="50%">
+<img src="docs/images/agil.png" width="180" height="180" alt="Muhammad Agil Ramadhan"/>
+<h3>MUHAMMAD AGIL RAMADHAN</h3>
+<p>240504112</p>
+<p>TEAM MEMBER 04</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## Background
 
 Universities frequently face challenges in managing classroom allocations, preventing schedule conflicts, tracking actual room utilization, and assessing whether room capacities match lecture needs. Traditional spreadsheet-based or static scheduling systems lack visual spatial context and analytical capabilities, making it difficult for stakeholders to obtain an accurate, unified view of campus classroom availability and operational conditions.
@@ -114,7 +158,14 @@ flowchart LR
 
 ```text
 smart-classroom-digital-twin/
+│
 ├── docs/
+│   ├── images/
+│   │   ├── nazua.png
+│   │   ├── grace.png
+│   │   ├── maulana.png
+│   │   └── agil.png
+│   │
 │   ├── ACTIVITY-DIAGRAM.md
 │   ├── API-SPEC.md
 │   ├── DEPLOYMENT.md
@@ -122,6 +173,7 @@ smart-classroom-digital-twin/
 │   ├── FUNCTION-POINT.md
 │   ├── UI-UX-WIREFRAME.md
 │   └── USER-STORY.md
+│
 ├── README.md
 └── (src/ will be initialized in Sprint 2)
 ```
