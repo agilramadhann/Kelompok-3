@@ -1,19 +1,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,30:5546A8,65:8875D6,100:D8C9F5&height=230&section=header&text=INFORMATIKA%20TEAM&fontSize=44&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEERING%20%7C%202026&descSize=15&descColor=F5F0FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101326,30:292052,65:6552B8,100:BBA9F5&height=260&section=header&text=INFORMATIKA%20TEAM&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=IDEAS%20INTO%20REALITY.&descSize=17&descColor=DDD4FF&descAlignY=60&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=AFA0F5&center=true&vCenter=true&width=600&lines=CREATIVE+MINDS.;COLLABORATIVE+SPIRIT.;INNOVATIVE+THINKING.;BUILDING+THE+FUTURE+TOGETHER."/>
 
 <br/>
 
-**CREATIVITY · COLLABORATION · INNOVATION**
-
-*Four individuals, one shared vision.*
+![TEAM](https://img.shields.io/badge/TEAM-INFORMATIKA%20TEAM-51418B?style=for-the-badge)
+![MEMBERS](https://img.shields.io/badge/MEMBERS-04-7664C8?style=for-the-badge)
+![FIELD](https://img.shields.io/badge/FIELD-SOFTWARE%20ENGINEERING-292052?style=for-the-badge)
 
 <br/>
 
-![TEAM](https://img.shields.io/badge/TEAM-INFORMATIKA%20TEAM-5546A8?style=for-the-badge)
-![MEMBERS](https://img.shields.io/badge/MEMBERS-04-8875D6?style=for-the-badge)
-![COURSE](https://img.shields.io/badge/COURSE-RPL-39345F?style=for-the-badge)
+**DESIGNING · DEVELOPING · INNOVATING**
 
 </div>
 
@@ -21,19 +21,23 @@
 
 <div align="center">
 
-## ABOUT OUR TEAM
+# 01 — THE INTRODUCTION
 
-*Who we are and what we believe in.*
+### MORE THAN JUST A TEAM.
 
 </div>
 
-INFORMATIKA TEAM merupakan kelompok mahasiswa Informatika yang terdiri dari empat anggota dengan karakter, kemampuan, dan ide yang beragam. Kami memiliki semangat untuk terus belajar, berkolaborasi, serta mengembangkan ide menjadi solusi digital melalui penerapan prinsip Rekayasa Perangkat Lunak.
+We are **INFORMATIKA TEAM**, a group of four Informatics students brought together by curiosity, creativity, and a shared passion for technology.
 
-Kami percaya bahwa kreativitas, komunikasi, dan kerja sama merupakan fondasi penting dalam menghasilkan sebuah karya yang berkualitas.
+Through collaboration and continuous learning, we explore ideas, solve problems, and transform concepts into meaningful digital solutions.
+
+Our journey is built on one simple belief:
 
 <div align="center">
 
-*Different Skills, Different Ideas, One Shared Vision.*
+### GREAT IDEAS GROW THROUGH COLLABORATION.
+
+*Different perspectives. One direction. Endless possibilities.*
 
 </div>
 
@@ -41,210 +45,158 @@ Kami percaya bahwa kreativitas, komunikasi, dan kerja sama merupakan fondasi pen
 
 <div align="center">
 
-## TEAM MEMBERS
+# 02 — THE PEOPLE
 
-*Meet the people behind the ideas.*
+### FOUR MINDS. ONE CREATIVE SPACE.
+
+*Meet the individuals behind Informatika Team.*
 
 <br/>
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-<img src="./images/team/nazua.jpg" width="170" alt="Nazua"/>
+<img src="./images/team/nazua.jpg" width="185" alt="Nazua"/>
 
-### NAZUA
+<br/>
 
-**250504128**
+**01 / NAZUA**
 
-<sub>TEAM MEMBER 01</sub>
+<sub>250504128</sub>
+
+<sub>INFORMATICS STUDENT</sub>
 
 </td>
-
 <td align="center" width="50%">
 
-<img src="./images/team/grace.jpg" width="170" alt="Grace Anast asya Siahaan"/>
+<img src="./images/team/grace.jpg" width="185" alt="Grace Anast asya Siahaan"/>
 
-### GRACE ANASTASYA SIAHAAN
+<br/>
 
-**250504110**
+**02 / GRACE ANASTASYA SIAHAAN**
 
-<sub>TEAM MEMBER 02</sub>
+<sub>250504110</sub>
+
+<sub>INFORMATICS STUDENT</sub>
 
 </td>
 </tr>
-
 <tr>
 <td align="center" width="50%">
 
-<img src="./images/team/maulana.jpg" width="170" alt="Maulana Yoga Syahputra"/>
+<img src="./images/team/maulana.jpg" width="185" alt="Maulana Yoga Syahputra"/>
 
-### MAULANA YOGA SYAHPUTRA
+<br/>
 
-**240504104**
+**03 / MAULANA YOGA SYAHPUTRA**
 
-<sub>TEAM MEMBER 03</sub>
+<sub>240504104</sub>
+
+<sub>INFORMATICS STUDENT</sub>
 
 </td>
-
 <td align="center" width="50%">
 
-<img src="./images/team/agil.jpg" width="170" alt="Muhammad Agil Ramadhan"/>
+<img src="./images/team/agil.jpg" width="185" alt="Muhammad Agil Ramadhan"/>
 
-### MUHAMMAD AGIL RAMADHAN
+<br/>
 
-**240504112**
+**04 / MUHAMMAD AGIL RAMADHAN**
 
-<sub>TEAM MEMBER 04</sub>
+<sub>240504112</sub>
+
+<sub>INFORMATICS STUDENT</sub>
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+# 03 — OUR ACADEMIC SPACE
+
+### WHERE KNOWLEDGE MEETS CREATIVITY.
+
+*The academic foundation of our journey.*
+
+<br/>
+
 </div>
+
+| DETAILS | INFORMATION |
+|:---|:---|
+| TEAM | INFORMATIKA TEAM |
+| DEPARTMENT | Informatika |
+| COURSE | Rekayasa Perangkat Lunak |
+| LECTURER | Cut Alna Fadhilla, S.Kom., M.Sc. |
+| ACADEMIC YEAR | 2026 |
+| TEAM MEMBERS | 04 Students |
 
 ---
 
 <div align="center">
 
-## ACADEMIC PROFILE
+# 04 — OUR PHILOSOPHY
 
-*An overview of our academic identity.*
+### WHAT DEFINES US.
 
-<br/>
+*The values behind every idea we create.*
+
+</div>
 
 <table>
 <tr>
-<td width="35%">
+<td width="50%" valign="top">
 
-**TEAM**
+### 01 / CREATIVITY
 
-</td>
-<td>
-
-INFORMATIKA TEAM
+We believe every challenge is an opportunity to think differently and discover new possibilities.
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
-**DEPARTMENT**
+### 02 / COLLABORATION
 
-</td>
-<td>
-
-Informatika
+We grow stronger by sharing perspectives, supporting one another, and working as one.
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**COURSE**
+### 03 / INNOVATION
 
-</td>
-<td>
-
-Rekayasa Perangkat Lunak
+We turn curiosity into ideas and ideas into meaningful solutions through technology.
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
-**LECTURER**
+### 04 / GROWTH
 
-</td>
-<td>
-
-Cut Alna Fadhilla, S.Kom., M.Sc.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**ACADEMIC YEAR**
-
-</td>
-<td>
-
-2026
-
-</td>
-</tr>
-<tr>
-<td>
-
-**TEAM SIZE**
-
-</td>
-<td>
-
-04 Members
+We embrace every experience as an opportunity to learn, improve, and move forward.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-## OUR VALUES
+# 05 — OUR TOOLKIT
 
-*The principles that define us.*
+### TECHNOLOGY THAT POWERS OUR IDEAS.
 
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 01
-
-**CREATIVITY**
-
-<sub>Developing ideas through creative thinking.</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 02
-
-**TEAMWORK**
-
-<sub>Growing through collaboration.</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 03
-
-**INNOVATION**
-
-<sub>Turning ideas into meaningful solutions.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## TECHNOLOGY & TOOLS
-
-*The tools behind our development process.*
+*Our tools for learning, building, and creating.*
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark"/>
 
 <br/><br/>
 
@@ -253,6 +205,7 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -260,93 +213,47 @@ Cut Alna Fadhilla, S.Kom., M.Sc.
 
 <div align="center">
 
-## OUR VISION
+# 06 — OUR DIRECTION
 
-*Creating a better future through technology.*
+### A VISION BEYOND THE CODE.
 
 </div>
 
-Menjadi kelompok yang kompeten, inovatif, dan kolaboratif dalam bidang teknologi informasi serta mampu menghasilkan solusi digital yang bermanfaat.
+Our goal is to become a collaborative and innovative team capable of transforming knowledge into practical solutions.
+
+We strive to develop our technical abilities, strengthen our teamwork, and create meaningful projects through the principles of Software Engineering.
+
+**OUR COMMITMENT**
+
+- Continuous learning and improvement.
+- Building meaningful ideas through collaboration.
+- Developing solutions with creativity and responsibility.
+- Growing together through every challenge.
 
 ---
 
 <div align="center">
 
-## OUR MISSION
-
-*The direction that guides our journey.*
-
-</div>
-
-<table>
-<tr>
-<td>
-
-**01 — KNOWLEDGE**
-
-Mengembangkan pengetahuan dan keterampilan di bidang Informatika.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**02 — COLLABORATION**
-
-Membangun kerja sama dan komunikasi yang baik antaranggota.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**03 — DEVELOPMENT**
-
-Menerapkan prinsip Rekayasa Perangkat Lunak dalam pengembangan proyek.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**04 — INNOVATION**
-
-Menghasilkan solusi teknologi yang kreatif dan bermanfaat.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## OUR GOALS
-
-To grow as a team, strengthen our knowledge, and create meaningful solutions through collaboration and innovation.
-
-We aim to transform ideas into practical outcomes while continuously learning and developing our skills in Software Engineering.
+# 07 — THE FINAL NOTE
 
 <br/>
 
-*Learn Together. Build Better.*
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171326,50:51418B,100:9D88E5&height=150&section=header&text=ONE%20TEAM.&fontSize=40&fontColor=FFFFFF&animation=fadeIn"/>
 
-</div>
+### ONE VISION. ENDLESS POSSIBILITIES.
 
----
+*We are not just learning to build software.*
 
-<div align="center">
-
-### FOUR MINDS. ONE VISION.
-
-*Building ideas into meaningful digital solutions.*
+*We are learning to build the future.*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,30:5546A8,65:8875D6,100:D8C9F5&height=160&section=footer&text=INFORMATIKA%20TEAM&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+**INFORMATIKA TEAM**
 
-**© 2026 INFORMATIKA TEAM**
+<sub>REKAYASA PERANGKAT LUNAK · 2026</sub>
 
-<sub>REKAYASA PERANGKAT LUNAK</sub>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101326,35:292052,75:6552B8,100:BBA9F5&height=120&section=footer"/>
 
 </div>
