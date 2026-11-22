@@ -1,161 +1,173 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,35:5546A8,70:8875D6,100:C5B9F0&height=230&section=header&text=INFORMATIKA%20TEAM&fontSize=42&fontColor=FFFFFF&desc=REKAYASA%20PERANGKAT%20LUNAK&descSize=16&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=17&duration=2500&pause=800&color=C5B9F0&center=true&vCenter=true&width=600&lines=WELCOME+TO+OUR+TEAM;FOUR+MINDS+ONE+MISSION;LET'S+BUILD+SOMETHING+GREAT!" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171B36,50:38345F,100:8875D6&height=190&section=header&text=INFORMATIKA%20TEAM&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%202026&descSize=14&descColor=D8D0F5&descAlignY=65"/>
 
 <br/>
 
-![TEAM](https://img.shields.io/badge/TEAM-INFORMATIKA%20TEAM-6655B8?style=for-the-badge)
-![MEMBERS](https://img.shields.io/badge/MEMBERS-04-8875D6?style=for-the-badge)
-![COURSE](https://img.shields.io/badge/COURSE-RPL-39345F?style=for-the-badge)
+**CREATIVITY · COLLABORATION · INNOVATION**
+
+<br/>
+
+*Four individuals, one shared vision.*
 
 </div>
 
 ---
 
+## ABOUT OUR TEAM
+
+INFORMATIKA TEAM merupakan kelompok mahasiswa Informatika yang terdiri dari empat anggota dengan latar belakang kemampuan dan karakter yang beragam. Kami memiliki semangat untuk terus belajar, berkolaborasi, dan mengembangkan ide menjadi solusi digital melalui penerapan prinsip Rekayasa Perangkat Lunak.
+
+Kami percaya bahwa kombinasi kreativitas, komunikasi, dan kerja sama merupakan fondasi penting dalam menghasilkan sebuah karya yang berkualitas.
+
+---
+
+## TEAM MEMBERS
+
 <div align="center">
-
-# 🎮 PLAYER SELECT
-
-### CHOOSE YOUR PLAYER
-
-*Different personalities, one destination.*
-
-</div>
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### PLAYER 01
+<img src="https://api.dicebear.com/10.x/notionists/svg?seed=Nazua&backgroundColor=c5b9f0" width="125"/>
 
-<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Nazua&hairVariant=long01&hairProbability=100&beardProbability=0&backgroundColor=c5b9f0&hairColor=28150a,611c17" width="160" alt="Nazua"/>
+**NAZUA**
 
-### 🎀 NAZUA
+250504128
 
-**NIM: 250504128**
-
-`FEMALE PLAYER`
+<sub>TEAM MEMBER 01</sub>
 
 </td>
 <td align="center" width="50%">
 
-### PLAYER 02
+<img src="https://api.dicebear.com/10.x/notionists/svg?seed=Grace&backgroundColor=d8d0f5" width="125"/>
 
-<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Grace&hairVariant=long05&hairProbability=100&beardProbability=0&backgroundColor=d8d0f5&hairColor=28150a,603a14" width="160" alt="Grace"/>
+**GRACE ANASTASYA SIAHAAN**
 
-### 🌸 GRACE ANASTASYA SIAHAAN
+250504110
 
-**NIM: 250504110**
-
-`FEMALE PLAYER`
+<sub>TEAM MEMBER 02</sub>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### PLAYER 03
+<img src="https://api.dicebear.com/10.x/notionists/svg?seed=Maulana&backgroundColor=b8c5ec" width="125"/>
 
-<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Maulana&hairVariant=short05&hairProbability=100&beardProbability=0&backgroundColor=b8c5ec&hairColor=28150a,603a14" width="160" alt="Maulana"/>
+**MAULANA YOGA SYAHPUTRA**
 
-### ⚡ MAULANA YOGA SYAHPUTRA
+240504104
 
-**NIM: 240504104**
-
-`MALE PLAYER`
+<sub>TEAM MEMBER 03</sub>
 
 </td>
 <td align="center" width="50%">
 
-### PLAYER 04
+<img src="https://api.dicebear.com/10.x/notionists/svg?seed=Agil&backgroundColor=c9c9ed" width="125"/>
 
-<img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Agil&hairVariant=short12&hairProbability=100&beardProbability=0&backgroundColor=c9c9ed&hairColor=28150a,611c17" width="160" alt="Muhammad Agil"/>
+**MUHAMMAD AGIL RAMADHAN**
 
-### 🎮 MUHAMMAD AGIL RAMADHAN
+240504112
 
-**NIM: 240504112**
-
-`MALE PLAYER`
+<sub>TEAM MEMBER 04</sub>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+## ACADEMIC INFORMATION
+
+| DESCRIPTION | INFORMATION |
+|:---|:---|
+| Team | Informatika Team |
+| Department | Informatika |
+| Course | Rekayasa Perangkat Lunak |
+| Lecturer | Cut Alna Fadhilla, S.Kom., M.Sc. |
+| Academic Year | 2026 |
+| Total Members | 4 Students |
+
+---
+
+## OUR VALUES
 
 <div align="center">
 
-# 📚 COURSE INFORMATION
+<table>
+<tr>
+<td align="center" width="33%">
 
-### REKAYASA PERANGKAT LUNAK
+### 01
 
-**DOSEN PENGAMPU**
+**CREATIVITY**
 
-### Cut Alna Fadhilla, S.Kom., M.Sc.
+<sub>Developing ideas with creative thinking.</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 02
+
+**TEAMWORK**
+
+<sub>Growing through collaboration.</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 03
+
+**INNOVATION**
+
+<sub>Turning ideas into meaningful solutions.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
-
-# ⚡ TEAM POWER-UPS
-
-</div>
-
-| POWER-UP | DESCRIPTION |
-|---|---|
-| 💡 Creativity | Mengembangkan ide kreatif |
-| 🤝 Teamwork | Kerja sama kelompok |
-| 🚀 Innovation | Menciptakan inovasi |
-| 🧠 Problem Solving | Menyelesaikan masalah |
-| 📖 Knowledge | Belajar bersama |
-
----
+## TECHNOLOGY & TOOLS
 
 <div align="center">
 
-# 💻 LANGUAGES & TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark" />
-
-<br/><br/>
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=light" />
 
 </div>
 
 ---
 
+## OUR VISION
+
+Menjadi kelompok yang kompeten, inovatif, dan kolaboratif dalam bidang teknologi informasi serta mampu menghasilkan solusi digital yang bermanfaat.
+
+## OUR MISSION
+
+- Mengembangkan pengetahuan dan keterampilan di bidang Informatika.
+- Meningkatkan kemampuan bekerja sama dalam sebuah tim.
+- Menerapkan konsep Rekayasa Perangkat Lunak dalam pengembangan proyek.
+- Menghasilkan solusi teknologi yang kreatif dan bermanfaat.
+
+---
+
 <div align="center">
 
-# 🏆 OUR MISSION
+### FOUR MINDS. ONE VISION.
 
-### DESIGN • DEVELOP • INNOVATE
-
-Belajar bersama, bekerja sama, dan mengembangkan
-kemampuan dalam bidang Rekayasa Perangkat Lunak.
+*Building ideas into meaningful digital solutions.*
 
 <br/>
 
-| MISSION | STATUS |
-|---|---|
-| Team Formation | ✅ COMPLETED |
-| Project Planning | 🔄 IN PROGRESS |
-| System Analysis | 🔄 IN PROGRESS |
-| Development | 🔒 UPCOMING |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171B36,50:38345F,100:8875D6&height=90&section=footer&text=INFORMATIKA%20TEAM&fontSize=22&fontColor=FFFFFF"/>
 
-<br/>
-
-### "FOUR MINDS, ONE MISSION."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,35:5546A8,70:8875D6,100:C5B9F0&height=150&section=footer&text=LEVEL%20UP%20TOGETHER&fontSize=26&fontColor=FFFFFF&animation=fadeIn"/>
-
-**INFORMATIKA TEAM © 2026**
+<sub>© 2026 INFORMATIKA TEAM · SOFTWARE ENGINEERING</sub>
 
 </div>
