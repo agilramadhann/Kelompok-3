@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171B36,35:5546A8,70:8875D6,100:C5B9F0&height=230&section=header&text=INFORMATIKA%20TEAM&fontSize=42&fontColor=FFFFFF&desc=REKAYASA%20PERANGKAT%20LUNAK&descSize=16&animation=fadeIn"/>
+<div align="center">
+
+<img width="100%" src="./banner-kelompok-3.svg" alt="Banner Kelompok 3"/>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=17&duration=2500&pause=800&color=C5B9F0&center=true&vCenter=true&width=600&lines=WELCOME+TO+OUR+TEAM;FIVE+MINDS+ONE+MISSION;SMART+CLASSROOM+DIGITAL+TWIN" />
 
