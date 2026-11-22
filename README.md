@@ -45,6 +45,8 @@
 
 **NIM: 250504128**
 
+`GITHUB: @nazua4868`
+
 `FEMALE PLAYER`
 
 </td>
@@ -55,6 +57,8 @@
 <img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Grace&hairVariant=long05&hairProbability=100&beardProbability=0&backgroundColor=d8d0f5&hairColor=28150a,603a14" width="160" alt="Grace"/>
 
 ### 🌸 GRACE ANASTASYA SIAHAAN
+
+`GITHUB: @geyesanastasya05`
 
 **NIM: 250504110**
 
@@ -71,6 +75,8 @@
 
 ### ⚡ MAULANA YOGA SYAHPUTRA
 
+`GITHUB: @Nganggurr`
+
 **NIM: 240504104**
 
 `MALE PLAYER`
@@ -83,6 +89,8 @@
 <img src="https://api.dicebear.com/10.x/pixel-art/svg?seed=Agil&hairVariant=short12&hairProbability=100&beardProbability=0&backgroundColor=c9c9ed&hairColor=28150a,611c17" width="160" alt="Muhammad Agil"/>
 
 ### 🎮 MUHAMMAD AGIL RAMADHAN
+
+`GITHUB: @agilramadhannn`
 
 **NIM: 240504000**
 
